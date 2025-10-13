@@ -97,7 +97,7 @@ const Home = () => {
         <div className="grid items-center gap-10 md:grid-cols-2">
           <div>
             <h1 className="text-4xl font-extrabold tracking-tight md:text-5xl">
-              Your Dream <span className="text-teal-400">Home</span> Awaits
+              No <span className="text-teal-400">Broker,</span> Perfect <span className="text-teal-400">Corner!</span>
             </h1>
             <p className="mt-4 max-w-prose text-neutral-300">
               Discover the perfect place to live, invest, or settle down with FlatBuddy, your trusted partner in student accommodation.
